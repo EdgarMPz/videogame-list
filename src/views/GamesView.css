@@ -1,0 +1,13 @@
+.GamesView {
+    max-width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  .GamesView p {
+      text-align: justify;
+  }
+  .GamesView img {
+    max-width: 100%;
+    text-align: center;
+  }
+  
